@@ -19,7 +19,7 @@ We are using GitHub for submission of programming assignments. You will need to 
 
 **Step 1:** You will receive an email invitation to join the CSCI-4611-Fall-2026 organization. You must first accept that invitation, which will create an association within the [course organization](https://github.com/CSCI-4611-Fall-2026) between your University email and your GitHub account.
 
-**Step 2:** Create your private repository using the following link: TO BE ADDED
+**Step 2:** Create your private repository using the following link: https://classroom50.org/CSCI-4611-Fall-2026/csci-4611/assignments/assignment-1/accept
 
 **Step 3:**  The system will then create a new private repository with starter code that is only accessible by you, the instructor, and the TAs. You can then use `git` to check out the code to your local machine. If you prefer a GUI application instead of the command line, then I recommend using [GitHub Desktop](https://github.com/apps/desktop) or Visual Studio Code's integrated source control.
 
