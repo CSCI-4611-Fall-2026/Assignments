@@ -19,7 +19,7 @@ We are using GitHub for submission of programming assignments. You will need to 
 
 **Step 1:** You will receive an email invitation to join the CSCI-4611-Fall-2026 organization. You must first accept that invitation, which will create an association within the [course organization](https://github.com/CSCI-4611-Fall-2026) between your University email and your GitHub account.
 
-**Step 2: ** Create your private repository using the following link: TO BE ADDED
+**Step 2:** Create your private repository using the following link: TO BE ADDED
 
 **Step 3:**  The system will then create a new private repository with starter code that is only accessible by you, the instructor, and the TAs. You can then use `git` to check out the code to your local machine. If you prefer a GUI application instead of the command line, then I recommend using [GitHub Desktop](https://github.com/apps/desktop) or Visual Studio Code's integrated source control.
 
@@ -54,7 +54,7 @@ Your program should open in a web browser automatically.  If not, you can run it
 
 Functional requirements are graded out of 20 points. Additionally, your submission will be evaluated for code quality (2 points). After your program is submitted, you will also schedule an in-person meeting with a graduate TA for a code understanding check (4 points). The overall assignment grade is therefore worth a total of 26 points.
 
-This assignment is divided into seven parts.  The provided starter code implements the complete structure of the game and has extensive comments throughout.  The locations to add your code for each of the requirements listed below is marked with `ADD YOUR CODE HERE`.  Note that you do **not** need to make any changes to the existing code, nor do you need to add any code outside of the areas marked in the comments.  However, you should feel free to change the existing code if you want to do something fun or go beyond the requirements of the assignment.
+This assignment is divided into seven parts.  The provided starter code implements the complete structure of the game and has extensive comments throughout.  The locations to add your code for each of the requirements listed below are marked with `ADD YOUR CODE HERE`.  Note that you do **not** need to make any changes to the existing code, nor do you need to add any code outside of the areas marked in the comments.  However, you should feel free to change the existing code if you want to do something fun or go beyond the requirements of the assignment.
 
 #### Part 1: Star Movement (4 points)
 
@@ -71,7 +71,7 @@ This assignment is divided into seven parts.  The provided starter code implemen
 #### Part 3: Laser Spawning (3 points)
 
 - When the user clicks the mouse, a new instance of the laser object should be added to the scene. (2)
-  
+
 - When the laser is created, it should be rotated to point towards the mouse cursor, similar to the way the ship was pointed in that direction. (1)
 
 #### Part 4: Laser Movement (3 points)
@@ -136,4 +136,3 @@ The ship graphics were from the Kenney [Space Shooter Remastered](https://kenney
 ## License
 
 Public distribution of assignment source code outside the class is **prohibited**. If you want to showcase your work to potential employers, then you may distribute the link to the compiled build on GitHub Pages or share the source code with them **privately**.
-
