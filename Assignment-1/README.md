@@ -2,6 +2,8 @@
 
 **Due: Friday, October 2, 11:59pm CT**
 
+*Note: The deadline for submitting this assignment with no late penalty has been **extended** to Monday, October 5, 11:59pm CT.*
+
 This assignment involves creating a simple, fun game using 2D graphics. You will learn to:
 
 - Use TypeScript and GopherGfx for some serious programming
