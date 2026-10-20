@@ -159,7 +159,7 @@ The cue ball and game win logic is already set up. You will need to add:
 
 #### Submission: Build and Deploy
 
-- To submit the assignment for grading, you will need to update your `README.md` file, commit and push your code to GitHub, and then deploy to GitHub Pages, as described below. (1)
+- To submit the assignment for grading, you will need to update your `README.md` file, commit and push your source code, and then build and deploy to GitHub Pages, as described below. (1)
 
 ## Wizard Bonus Challenge
 
@@ -179,7 +179,7 @@ When you have finished the assignment, you should complete the missing informati
 npm run submit
 ```
 
-This compiles your TypeScript program into a JavaScript bundle that will be placed in the `submission` folder. **To complete your submission, you should commit your source code and the contents of the `submission` folder, then push to GitHub.**
+This compiles your TypeScript program into a JavaScript bundle that will be placed in the `submission` folder. **To complete your submission, you should commit your source code (`src` folder) and compiled build (`submission` folder), then push to GitHub.**
 
 The push to GitHub will trigger a server-side workflow that will automatically deploy your build as a website on GitHub pages. Note that you may need to wait a couple minutes for the deployment to become active. Make sure to test everything by pointing your web browser at the GitHub pages URL for your repository:
 
