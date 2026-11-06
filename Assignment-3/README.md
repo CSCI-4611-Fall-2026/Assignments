@@ -1,6 +1,8 @@
 # Assignment 3: Earthquake Visualization
 
-**Due: Friday, November 6, 11:59pm CT**
+~~**Due: Friday, November 6, 11:59pm CT**~~
+
+*The due date has been extended to **Sunday, November 8,** 11:59pm CT.*
 
 Visualizations incorporating geospatial data are used and analyzed in many different contexts, including navigating a city (as seen in GPS devices), commercial development, and setting governmental policy. This area also receives a significant amount of research attention. For example, Prof. Vipin Kumar and others at the University of Minnesota are working on visualizing and understanding climate change datasets as part of a [National Science Foundation project](http://climatechange.cs.umn.edu).
 
