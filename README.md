@@ -3,3 +3,5 @@
 **Assignment 2:** [Trick Shot Simulator](https://github.com/CSCI-4611-Fall-2026/Assignments/blob/main/Assignment-2/README.md)
 
 **Assignment 3:** [Earthquake Visualization](https://github.com/CSCI-4611-Fall-2026/Assignments/blob/main/Assignment-3/README.md)
+
+**Assignment 4:** [So You Think Ants Can Dance](https://github.com/CSCI-4611-Fall-2026/Assignments/blob/main/Assignment-4/README.md)
