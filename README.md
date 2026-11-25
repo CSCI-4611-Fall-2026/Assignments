@@ -5,3 +5,5 @@
 **Assignment 3:** [Earthquake Visualization](https://github.com/CSCI-4611-Fall-2026/Assignments/blob/main/Assignment-3/README.md)
 
 **Assignment 4:** [So You Think Ants Can Dance](https://github.com/CSCI-4611-Fall-2026/Assignments/blob/main/Assignment-4/README.md)
+
+**Assignment 5:** [Artistic Rendering](https://github.com/CSCI-4611-Fall-2026/Assignments/blob/main/Assignment-5/README.md)
